@@ -1,5 +1,21 @@
 HuggingFace NLP Tasks N个实战任务
 
+<br>
+环境信息:
+<br>
+python=3.9
+<br>
+torch=1.12.1+cu113
+<br>
+transformers=4.26.1
+<br>
+datasets=2.9.0
+<br>
+huggingface_hub=0.12.1
+<br>
+<br>
+
+
 视频课程地址：https://www.bilibili.com/video/BV1dU4y1C7so/
 
 2023年2月9日更新:
